@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Марія Іванова",
+      "email": "maria@example.com",
+      "address": "вул. Центральна, 45",
+      "phone": "+380956784512"
+    },
+    {
+      "name": "Олександр Петренко",
+      "email": "alexander@example.com",
+      "address": "пр. Сонячний, 67",
+      "phone": "+380997776655"
+    },
+    {
+      "name": "Катерина Сидоренко",
+      "email": "kate@example.com",
+      "address": "вул. Паркова, 12",
+      "phone": "+380931234567"
+    },
+    {
+      "name": "Андрій Григорович",
+      "email": "andrew@example.com",
+      "address": "вул. Спортивна, 89",
+      "phone": "+380989876543"
+    }
+  ]
+  
